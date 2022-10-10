@@ -1,0 +1,45 @@
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\MainWindow.g.cs
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\App.g.cs
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2_MarkupCompile.cache
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2_MarkupCompile.lref
+C:\Users\marci\source\repos\Tiktaktoe2\bin\Debug\Tiktaktoe2.exe.config
+C:\Users\marci\source\repos\Tiktaktoe2\bin\Debug\Tiktaktoe2.exe
+C:\Users\marci\source\repos\Tiktaktoe2\bin\Debug\Tiktaktoe2.pdb
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\MainWindow.baml
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.g.resources
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.Properties.Resources.resources
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.GenerateResource.cache
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.exe
+C:\Users\marci\source\repos\Tiktaktoe2\obj\Debug\Tiktaktoe2.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\bin\Debug\Tiktaktoe2.exe.config
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\bin\Debug\Tiktaktoe2.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\bin\Debug\Tiktaktoe2.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.csprojAssemblyReference.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\MainWindow.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\App.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2_MarkupCompile.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2_MarkupCompile.lref
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\MainWindow.baml
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.g.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.Properties.Resources.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.GenerateResource.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.CoreCompileInputs.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tiktaktoe2\obj\Debug\Tiktaktoe2.pdb
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tiktaktoe2.csprojAssemblyReference.cache
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\MainWindow.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\App.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\MainWindow.baml
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.GenerateResource.cache
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tiktaktoe2.csproj.CoreCompileInputs.cache
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\bin\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\bin\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tic-tac-toe_MarkupCompile.cache
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tic-tac-toe_MarkupCompile.lref
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tic-tac-toe.g.resources
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\Tiktaktoe2\obj\Debug\Tic-tac-toe.pdb

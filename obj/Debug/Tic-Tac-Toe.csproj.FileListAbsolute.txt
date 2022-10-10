@@ -1,0 +1,47 @@
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\MainWindow.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\App.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-tac-toe_MarkupCompile.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-tac-toe_MarkupCompile.lref
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\MainWindow.baml
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.g.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\bin\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\MainWindow.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\App.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-tac-toe_MarkupCompile.cache
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-tac-toe_MarkupCompile.lref
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\MainWindow.baml
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.g.resources
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\Nowy folder\Tic-Tac-Toe\obj\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\bin\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\bin\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\MainWindow.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\App.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-tac-toe_MarkupCompile.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-tac-toe_MarkupCompile.lref
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\MainWindow.baml
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-tac-toe.g.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-tac-toe.exe
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Tic-tac-toe.pdb
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Window1.g.cs
+C:\Users\marci\iCloudDrive\Pulpit\DOAWGUI PROJ\Tic-Tac-Toe 2\obj\Debug\Window1.baml
